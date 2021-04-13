@@ -4,9 +4,11 @@ declare type Address = {
 }
 
 declare type Context = {
+  dappFather: Address
   dapp: Address
   org: Address
   device: Address
   user: Address
   orgToken?: string
+  key?: string
 }

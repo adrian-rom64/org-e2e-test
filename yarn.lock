@@ -3338,9 +3338,9 @@ sisteransi@^1.0.5:
   resolved "https://registry.yarnpkg.com/sisteransi/-/sisteransi-1.0.5.tgz#134d681297756437cc05ca01370d3a7a571075ed"
   integrity sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==
 
-"skey-lib@git+ssh://git@gitlab.com/smartkey/smart-key-platform/orange/smartkey-libs.git":
+skey-lib@smartkeyplatform/SmartKey-Libs:
   version "1.0.0"
-  resolved "git+ssh://git@gitlab.com/smartkey/smart-key-platform/orange/smartkey-libs.git#9c296cd2d40a12a573f2c0dd7f9d2ca3fe78fe7c"
+  resolved "https://codeload.github.com/smartkeyplatform/SmartKey-Libs/tar.gz/9c296cd2d40a12a573f2c0dd7f9d2ca3fe78fe7c"
   dependencies:
     "@waves/ts-lib-crypto" "^1.4.3"
     "@waves/waves-transactions" "^4.1.8"
